@@ -1,5 +1,5 @@
 import React from "react";
-import ToDoScreen from "../screens/TodoScreen";
+import ToDoScreen from "../screens/ToDoScreen";
 import { fireEvent, render, waitFor } from "@testing-library/react-native";
 
 describe('ToDoScreen component', () => {

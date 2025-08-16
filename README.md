@@ -1,4 +1,4 @@
-Create basic To-do list app with React Native.
+Create basic To-do list application with React Native.
 
 Task Instructions
 

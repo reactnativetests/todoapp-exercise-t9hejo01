@@ -24,7 +24,7 @@ const ToDoScreen = () => {
     };
 
     return (
-        <View style={StyleSheet.comtainer}>
+        <View style={styles.container}>
             <Text style={styles.title}>To-Do List</Text>
             <View style={styles.inputContainer}>
                 <TextInput

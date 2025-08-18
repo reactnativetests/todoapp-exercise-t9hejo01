@@ -17,3 +17,46 @@ Task Instructions
      - Display a list of tasks below the input field using a scrollable FlatList.
      - Each tasks item should display the task text clearly.
     
+4. Delete Tasks
+
+· Each task in the list should have a Delete button or icon next to it.
+
+· When the delete button is pressed:
+
+o The corresponding task should be removed from the list.
+
+o The list should update immediately to reflect the change.
+
+
+5. UI & Usability
+
+· Use basic styling to clearly separate the input area and task list.
+
+· Make sure buttons and text are large enough for easy tapping.
+
+· Optional: Display a message like “No tasks yet” when the list is empty.
+
+
+TestIDs:
+
+-   Add testIDs for testing.
+   -   add-button
+   -   clear-all-button      
+
+
+Requirements
+
+· A text input and an Add button.
+
+· A dynamic list that displays all added tasks.
+
+· Ability to delete individual tasks from the list.
+
+· State is updated and reflected in the UI in real time.
+
+
+Additional requirements
+
+· Prevent adding empty tasks.
+
+· Add a "Clear All" button to remove all tasks.
